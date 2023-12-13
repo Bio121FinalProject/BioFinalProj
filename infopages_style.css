@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(247, 227, 200);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+    text-align: center;
+}
+.list_container {
+    position: relative;
+    line-height: 2.0;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+h3 {
+    text-align: center;
+    color: black;
+}
